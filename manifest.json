@@ -1,0 +1,68 @@
+{
+    "name": "My Food App",
+    "short_name": "My Food",
+    "description": "Free restaurant catalog for you",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d84315",
+    "fingerprints": false,
+    "icons": [
+        {
+            "src": "src/public/images/icons/cutlery_72x72.png",
+            "destination": "images/icons",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_96x96.png",
+            "destination": "images/icons",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_128x128.png",
+            "destination": "images/icons",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_144x144.png",
+            "destination": "images/icons",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_152x152.png",
+            "destination": "images/icons",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_192x192.png",
+            "destination": "images/icons",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_384x384.png",
+            "destination": "images/icons",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "src/public/images/icons/cutlery_512x512.png",
+            "destination": "images/icons",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
